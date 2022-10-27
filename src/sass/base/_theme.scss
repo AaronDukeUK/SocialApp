@@ -1,0 +1,18 @@
+$themes: (
+  light: (
+    textColor: #000,
+    bgColor: #fff,
+    logoColor: rgb(30, 64, 255),
+    bgSoftColor: #f6f3f3,
+    textSoftColor: #555,
+    borderColor: #d3d3d3,
+  ),
+  dark: (
+    textColor: #f5f5f5,
+    bgColor: #222,
+    logoColor: #f5f5f5,
+    bgSoftColor: #333,
+    textSoftColor: #d1d1d1,
+    borderColor: #444,
+  ),
+);
